@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=_jbW-kg3MFU">
+  <script type="text/javascript">
+    window.location.href = "https://www.youtube.com/watch?v=_jbW-kg3MFU"
+  </script>
+  <title>Redirecting you to your destination</title>
+  
+  <meta property="og:site_name" content="St Helena School">
+  <meta property="og:title" content="Virtual Christmas Concert">
+  <meta property="og:type" content="video">
+  <meta property="og:url" content="https://www.youtube.com/watch?v=_jbW-kg3MFU">
+  <meta property="og:description" content="Watch St Helena School's Virtual Christmas Concert">
+  
+</head>
+
+<body>
+  If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=_jbW-kg3MFU'>link</a>.
+</body>
+
+</html>
